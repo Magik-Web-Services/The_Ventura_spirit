@@ -1,0 +1,8 @@
+Desktop = 978 x 524 pixels
+align-Content = 902 x 524 pixels 
+justify-Content = 978 x 458 pixels 
+img1 = 367 x 235 pixels
+img2 = 209 x 236 pixels
+img3 = 289 x 454 pixels
+img4 = 211 x 193 pixels
+img5 = 363 x 199 pixels
